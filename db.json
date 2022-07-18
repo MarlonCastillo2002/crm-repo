@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Marlon Actualizado",
+      "empresa": "MarlonCode",
+      "email": "marlonalexcastillo38@gmail.com",
+      "telefono": "0985522826",
+      "notas": "cliente recomendado por otro cliente cliente",
+      "id": 1
+    }
+  ]
+}
